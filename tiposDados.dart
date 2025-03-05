@@ -16,6 +16,9 @@ void main() {
   String pessoa = "Maria";
   double salario = 41924;
 
+
+
+
   int ano = 2025; 
   print(altura);
 
